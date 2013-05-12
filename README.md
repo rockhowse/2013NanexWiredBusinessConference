@@ -16,3 +16,8 @@ Here are a few key directories:
 js/modules - contains the javascript "modules" that were used to build the project
 js_data - this contains the 1GB+ of javascript data used to power the Nanex Starmaps
 
+### Release Notes ###
+
+2013 05 12 - **1.0** (1.92 GB)
+
+* First release
